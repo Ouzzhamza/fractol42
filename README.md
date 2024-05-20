@@ -7,7 +7,7 @@ This repository contains an interactive program written in C that generates and 
 ## Key Features:
 
 Generation and visualization of different fractal types using complex mathematical algorithms.
-Real-time rendering of fractals with graphical representations using [graphics library name] (or specify the library used).
+Real-time rendering of fractals with graphical representations using Minilibx.
 User-friendly interface allowing interactive exploration of fractals (zoom, color schemes, parameter adjustments).
 Keyboard and mouse controls for seamless user interaction and exploration of fractals.
 Optimized rendering techniques for efficient visualization, ensuring smooth performance even for complex fractals or high resolutions.
